@@ -8,6 +8,7 @@ In this demo, I've implemented animated transtions using **Animated Builder**, *
 ## Photos
 ![Picture-1](https://github.com/Cavin6080/Advanced-BottomSheet-UI/blob/main/assets/bottom_sheet_photo_1.png?raw=true)
 ![Picture-1](assets/bottom_sheet_photo_2.png)
+<img src="assets/bottom_sheet_photo_2.png" height="400em">
 <img src="https://github.com/Cavin6080/Advanced-BottomSheet-UI/blob/main/assets/bottom_sheet_photo_1.png" height="400em">
 
 

@@ -1,16 +1,16 @@
-# advanced_bottom_sheet
 
-A new Flutter project.
+# Advanced BottomSheet UI
 
-## Getting Started
+This repository contains the code for implementing **Advanced BottomSheet UI** in your project.
 
-This project is a starting point for a Flutter application.
+In this demo, I've implemented animated transtions using **Animated Builder**, **Stack** and **Positioned Widget**.
 
-A few resources to get you started if this is your first Flutter project:
+## GIF
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+![Logo](https://github.com/Cavin6080/Advanced-BottomSheet-UI/blob/main/assets/animated_bottomsheet.gif.crdownload)
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## Authors
+- [@cavin](https://github.com/cavin6080)
+
+
+

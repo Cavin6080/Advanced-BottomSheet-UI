@@ -6,11 +6,10 @@ This repository contains the code for implementing **Advanced BottomSheet UI** i
 In this demo, I've implemented animated transtions using **Animated Builder**, **Stack** and **Positioned Widget**.
 
 ## Photos
-![Picture-1](https://github.com/Cavin6080/Advanced-BottomSheet-UI/blob/main/assets/bottom_sheet_photo_1.png?raw=true)
-![Picture-1](assets/bottom_sheet_photo_2.png)
-<img src="assets/bottom_sheet_photo_2.png" height="400em">
-<img src="https://github.com/Cavin6080/Advanced-BottomSheet-UI/blob/main/assets/bottom_sheet_photo_1.png" height="400em">
 
+<img width="394" alt="bottom_sheet_photo_1" src="https://github.com/Cavin6080/Advanced-BottomSheet-UI/assets/50316190/20765fbe-3ae7-4495-8f4e-d181af5e716d">
+
+<img width="394" alt="bottom_sheet_photo_2" src="https://github.com/Cavin6080/Advanced-BottomSheet-UI/assets/50316190/9c3b82b9-a0a9-4f2f-9d38-df466e2f69c4">
 
 ## Authors
 - [@cavin](https://github.com/cavin6080)

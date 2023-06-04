@@ -7,7 +7,7 @@ In this demo, I've implemented animated transtions using **Animated Builder**, *
 
 ## GIF
 
-![Logo](https://github.com/Cavin6080/Advanced-BottomSheet-UI/blob/main/assets/animated_bottomsheet.gif.crdownload)
+![Logo](https://github.com/Cavin6080/Advanced-BottomSheet-UI/blob/main/assets/animated_bottomsheet.gif)
 
 ## Authors
 - [@cavin](https://github.com/cavin6080)

@@ -5,7 +5,7 @@ This repository contains the code for implementing **Advanced BottomSheet UI** i
 
 In this demo, I've implemented animated transtions using **Animated Builder**, **Stack** and **Positioned Widget**.
 
-## GIF
+## Photos
 ![Picture-1](assets/bottom_sheet_photo_1.png)
 ![Picture-1](assets/bottom_sheet_photo_2.png)
 
